@@ -1,6 +1,6 @@
 # UsefulScripts
 
-- **mouseactivity.py** : Python script you can run in background to prevent the issue of "Runtime getting disconnected due to inactivity"
+- **mouse_activity.py** : Python script you can run in background to prevent the issue of "Runtime getting disconnected due to inactivity"
 
   Remember to run the script as sudo as it takes control of your mouse.
 
