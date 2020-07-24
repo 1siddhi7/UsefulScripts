@@ -6,4 +6,4 @@
 
   Also, keep open the tab where Google Colab is running.
   
-- LoadingDataset_Images.ipynb : To load a large dataset of images in Google Colab.
+- **LoadingDataset_Images.ipynb** : To load a large dataset of images in Google Colab.
